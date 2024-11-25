@@ -1,0 +1,147 @@
+body{
+    text-align: center;
+    
+}
+
+h1{
+    margin: 0px auto;
+    height: 250px;
+    width: 250px;
+    border: 2px solid Orchid;
+    box-shadow: 2px 3px 10px Orchid ;
+    border-radius: 5px;
+}
+
+div{
+    margin: 20px auto;
+    padding-bottom: 20px;
+    border: 2px solid LightSeaGreen;
+    box-shadow: 2px 3px 5px;
+    border-radius: 30px;
+    width: 500px;
+}
+
+.color{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.color:hover{
+    transform: scale(1.1);
+}
+
+#redtext{
+    background-color: red;
+}
+
+#darkbluetext{
+    background-color: darkblue;
+}
+
+#greentext{
+    background-color: green;
+}
+
+#bluetext{
+    background-color: blue;
+}
+
+#mediumvioletredtext{
+    background-color: mediumvioletred;
+}
+
+#deeppinktext{
+    background-color: deeppink;
+}
+
+#indigotext{
+    background-color: indigo;
+}
+
+#maroontext{
+    background-color: maroon;
+}
+
+#orangeredtext{
+    background-color: orangered;
+}
+
+#purpletext{
+    background-color: purple;
+}
+
+
+#alicebluebg{
+    background-color: aliceblue;
+}
+
+#ghostwhitebg{
+    background-color: ghostwhite;
+}
+
+#lavenderbg{
+    background-color: lavender;
+}
+
+#lightcyanbg{
+    background-color: lightcyan;
+}
+
+#mintcreambg{
+    background-color: mintcream;
+}
+
+#lavenderblushbg{
+    background-color: lavenderblush;
+}
+
+#oldlacebg{
+    background-color: oldlace;
+}
+
+#mistyrosebg{
+    background-color: mistyrose;
+}
+
+#thistlebg{
+    background-color: thistle;
+}
+
+#seashellbg{
+    background-color: seashell;
+}
+
+
+.fontfam{
+    padding: 0px 10px;
+    font-size: 20px;
+    border: none;
+    background-color: white;
+}
+
+.fontfam:hover{
+    transform: scale(1.3);
+    border: none;
+    background-color: white;
+}
+
+#cursive{
+    font-family: cursive;
+}
+
+#monospace{
+    font-family: monospace;
+}
+
+#serif{
+    font-family: serif;
+}
+
+#fantasy{
+    font-family: fantasy;
+}
+
+#sansserif{
+    font-family: sans-serif;
+}
